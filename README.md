@@ -10,4 +10,4 @@
 
 ### Useful Code JavaScript (Notes)
 
-- [JS Image Notes](/JS Image notes) 
+- [JS Image Notes](https://github.com/Harirai/Coursera-HTML-CSS-JavaScript/tree/master/JS%20Image%20notes) 
