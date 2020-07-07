@@ -1,4 +1,3 @@
-# Harirai-Website
-Let's apply the web dev as you learn!!
- - Getting started.
+# Assignments : Coursera, HTML, CSS, and Javascript for Web Developers 
 
+harirai.github.io/
